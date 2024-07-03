@@ -94,7 +94,7 @@ limbah gas merupakan isu lingkungan yang signifikan yang perlu diperhatikan deng
 #SIDEBAR
 with st.sidebar:
     st.header('WELCOME TO OUR PAGE')
-    st.write('A WEB PROJECT BY PL23 3C')
+    st.write('A WEB PROJECT BY PL23 C3')
 
     #ABOUT US
     with st.expander(' **ABOUT US**'):
